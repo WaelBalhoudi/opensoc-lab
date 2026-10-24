@@ -1,18 +1,15 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="OpenSOC Lab banner" width="100%">
+  <img src="assets/banner.png" alt="OpenSOC Lab banner" width="100%">
 </p>
 
-<p align="center">
-  <img alt="pfSense" src="https://img.shields.io/badge/pfSense-Firewall-212121?logo=pfsense&logoColor=white">
-  <img alt="Suricata" src="https://img.shields.io/badge/Suricata-Network_IDS-EF3B2D">
-  <img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-SIEM_%26_XDR-005571?logo=wazuh&logoColor=white">
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-Authorized_Testing-557C94?logo=kalilinux&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-Monitored_Endpoint-FCC624?logo=linux&logoColor=black">
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-Monitored_Endpoint-0078D4?logo=windows&logoColor=white">
-  <img alt="VMware" src="https://img.shields.io/badge/VMware_Workstation-Virtual_Lab-607078?logo=vmware&logoColor=white">
-  <img alt="Status" src="https://img.shields.io/badge/Status-In_Development-F59E0B">
-</p>
-
+![pfSense](https://img.shields.io/badge/pfSense-Firewall-212121?logo=pfsense&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-Network_IDS-EF3B2D)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM_%26_XDR-005571?logo=wazuh&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Authorized_Testing-557C94?logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Monitored_Endpoint-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-Monitored_Endpoint-0078D4?logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware_Workstation-Virtual_Lab-607078?logo=vmware&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In_Development-F59E0B)
 # OpenSOC Lab — Network Defense & Threat Detection
 
 **Build. Monitor. Detect. Investigate.**
